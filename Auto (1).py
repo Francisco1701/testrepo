@@ -8,7 +8,7 @@ class Auto:
         self.__Modelo = m
         self.__Tamanio = t
         self.__Forma = f
-        
+    #All good    
     #Setter y Getter despues del constructor
     #Setter utilizan la etiqueta @Representate.Setter
     #Getter utilizan la etiqueta @property
